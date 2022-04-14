@@ -1,0 +1,123 @@
+body {
+    background-image: linear-gradient(rgba(55, 79, 163, 0.65), rgba(55, 79, 163, 0.65)), url("../images/DSC04525.JPG");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+  }
+  h1 {
+    color: white;
+    size: 15px;
+  }
+  .head {
+    top: 5px;
+    left: 15px;
+    right: 15px;
+    height: 125px;
+    padding-left: 644px;
+    background-color: rgb(195, 230, 255);
+  }
+  .body {
+    background-color: rgba(0, 0, 0, 0.63);
+    padding-right: 500px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-left: 400px;
+    width: 50%;
+  }
+  .foot {
+    position: center;
+    padding-top: .05px;
+    bottom: 6px;
+    height: 60px;
+    left: 6px;
+    right: 6px;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    background-color: rgb(195, 230, 255);
+  }
+  .Title {
+    font: black;
+    size: 50px;
+    position: center;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 0px;
+  
+  }
+  .widen {
+    width: 500px !important;
+    display:block;
+  }
+  .center {
+    right: right
+  }
+  .Bold {
+    font-weight: bolder;
+  }
+  .border-1 {
+    border: mintcream;
+    border-width: 50px;
+    border-style: double;
+  }
+  .t_header {
+    text-align: center;
+    color: aliceblue;
+  }
+  .nav-button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: .3 rem;
+    white-space: nowrap;
+    cursor: pointer;
+    padding: .25 rem 0.6rem;
+    color: #000000;
+    background-color: cornsilk;
+    border-color: black;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-emphasis-color: black;
+    position: relative;
+    list-style: none;
+    font-size: 20px;
+    font-variant-caps: titling-caps;
+    border-style: solid;
+  }
+  .tableauPlaceholder {
+    color: #000000;
+    border: 400px;
+    object-position: left;
+    max-block-size: 1%;
+  }
+  .right {
+    padding-left: 300px;
+  }
+  .italic {
+    font-style: italic;
+  }
+  .big {
+    font-size: 1rem;
+  }
+  .blue {
+    color: blue;
+  }
+  .white {
+    color: white;
+  }
+  .backtotop {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 600;
+    color: black;
+    background-color: rgb(195, 230, 255);
+    margin-top: 5px;
+  }
+  .float{
+    float: right;
+  }
